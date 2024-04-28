@@ -11,6 +11,8 @@ In dieser wurde ein frei stehender Bogen aus 3D gedruckten Klötzen konstruiert.
 <img width=300 src="content/bilder/plot_bogen_oberstes_stueck.png"/>
 </center>
 
+Die ausführliche Facharbeit findet sich unter dem Namen Kettenlinie.pdf. Für klickbare Links bitte herunterladen und lokal öffnen.
+
 Die Python Datei (Kettenlinie.py) erzeugt die für den Druck benötigten stl-Dateien (bei vorgegebenen Parametern) und simuliert die Klötze zweidimensional (siehe Abbildung).
 
 Ein Jupyter-Notebook mit dem Python Code und weiterer Programm Dokumentation finden Sie [hier](https://andreas-di.github.io/jupyter/lab/index.html?path=Kettenlinie.ipynb).
